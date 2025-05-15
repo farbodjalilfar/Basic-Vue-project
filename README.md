@@ -33,18 +33,6 @@ To get started with the project, follow these steps:
 ```bash
 npm install
 
-# Basic Vue Project
-
-This project is a simple Vue.js application built using Vue 3. It demonstrates how to set up a front-end project with reusable components, routing, and production build features.
-
----
-
-## Install dependencies
-
-```bash
-npm install
-```
-
 ---
 
 ## Development
