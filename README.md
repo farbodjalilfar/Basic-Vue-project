@@ -27,9 +27,77 @@ To get started with the project, follow these steps:
 
 - Install [Node.js](https://nodejs.org/) (v16 or higher recommended).
 
-### Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/mycompany-website.git
-   cd mycompany-website
+
+### 1. Install dependencies
+```bash
+npm install
+
+# Basic Vue Project
+
+This project is a simple Vue.js application built using Vue 3. It demonstrates how to set up a front-end project with reusable components, routing, and production build features.
+
+---
+
+## Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+## Development
+
+To start the development server with hot-reload:
+
+```bash
+npm run dev
+```
+
+---
+
+## Build for Production
+
+To compile and minify the project for production:
+
+```bash
+npm run build
+```
+
+---
+
+## Preview Production Build
+
+To preview the production build locally:
+
+```bash
+npm run preview
+```
+
+---
+
+## Folder Structure
+
+```text
+src/
+├── components/       # Reusable Vue components (e.g., Navbar)
+├── views/            # Page-specific components (e.g., HomeView, AboutView)
+├── style.css         # Global styles
+├── router.js         # Vue Router configuration
+├── main.js           # Application entry point
+├── App.vue           # Root Vue component
+public/
+└── index.html        # Main HTML file
+```
+
+---
+
+## Team Members
+
+- Sadra Hosseini  
+- Mohsen Alavi  
+- Farbod Jalilfar  
+- Ahmed Wahib  
+- Jessica Pourleyli  
+- Phat Nguyen
