@@ -29,9 +29,11 @@ To get started with the project, follow these steps:
 
 
 
-### 1. Install dependencies
+## Install dependencies
+
 ```bash
 npm install
+```
 
 ---
 
@@ -54,7 +56,6 @@ npm run build
 ```
 
 ---
-
 ## Preview Production Build
 
 To preview the production build locally:
